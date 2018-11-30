@@ -2,7 +2,7 @@
   "name": "porfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iromero385.github.io/#",
+  "homepage": "https://iromero385.github.io/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
