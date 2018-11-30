@@ -1,0 +1,14 @@
+button{
+    background-color:transparent;
+    border: solid !important;
+    border-color:#364e68 !important; 
+}
+button:hover{
+    background-color:#132238;
+    color:#Ebf0f6 !important;
+    text-decoration: underline solid #ebf0f6 !important;
+}
+.activeBtn{
+    background-color:#132238;
+    color:#Ebf0f6 !important;
+}

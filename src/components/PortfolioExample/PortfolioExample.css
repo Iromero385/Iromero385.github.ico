@@ -1,0 +1,27 @@
+.pic:hover{
+opacity: .7; 
+background-color:#98ccd3 !important;
+font-weight: 100px;
+color:#132238;
+}
+div a{
+    color:#132238;
+    font-weight: bold;
+}
+.pic:hover img {
+    /* -webkit-transform:translate(0px,-8rem); */
+    -webkit-transform-origin: bottom left;
+    -webkit-transform: rotate(-45deg) translate(0,-4rem);
+    transition: .5s
+}
+.card-text{
+     color:transparent;
+     -webkit-transform: translate(0,-5rem);
+     
+     
+}
+
+.pic:hover .card-text{
+    color:#132238;
+    transition: 2s;
+}

@@ -1,0 +1,12 @@
+.card{
+    background-color:#EBF0F6;
+}
+ul{
+    margin: 0; 
+}
+.libraries-icons{
+    margin:3%
+}
+li.list-inline-item:hover{
+    -webkit-transform: scale(1.5);
+}

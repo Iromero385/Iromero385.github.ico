@@ -1,0 +1,17 @@
+.nav-text {
+    color: #ebf0f8;  
+}
+.backcolor{
+    background-color: #132238 !important;
+}
+ul.nav.nav-tabs.h4.p-3.fixed-top{
+    
+    padding-bottom: 0px !important;
+  
+}
+.nav-link:hover .nav-text { 
+    color:#98ccd3;
+}
+i.nav-text:hover{
+    color:#98ccd3
+}
